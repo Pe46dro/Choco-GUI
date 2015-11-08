@@ -1,18 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package choco_gui;
+package me.marangon;
 
-import javax.swing.JButton;
+import javax.swing.*;
 
 /**
  *
  * @author marangon.pietro
  */
-public class init {
-
+class Init {
     public static void init(JButton button[]) {
         button[0] = new JButton("Chocolatey v0.9.9.5 ");
         button[1] = new JButton("lhaca 0.76 ");

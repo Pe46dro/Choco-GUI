@@ -1,12 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package choco_gui;
+package me.marangon;
 
 /**
- *
+ * Simple class to manage JFrame
  * @author marangon.pietro
  */
 import java.awt.*; 
