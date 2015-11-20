@@ -49,9 +49,7 @@ public class GUI {
 
         JScrollPane textlog = new JScrollPane(out, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
         frame.add(textlog);
-        
-        
-        
+
         frame.setVisible(true);
         
         System.out.println(button[0].getHeight());
