@@ -1,4 +1,8 @@
+##No longer maintained
+Check [here](https://github.com/chocolatey/ChocolateyGUI)
+
 # Choco-GUI
+
 A simple GUI for Chocolately with Java made at school
 
 It's a simple project with no priority that I carry in spare time.
